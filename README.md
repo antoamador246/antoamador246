@@ -57,4 +57,3 @@ Algoritmo hotel
 	Escribir "descuento: " subtotal_2
     Escribir "total: " total 
 FinAlgoritmo
-Este en un algoritmo para la reservacio de un hotel  para tener un mejor controo del hotel
